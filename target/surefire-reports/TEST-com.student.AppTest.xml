@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.student.AppTest" time="0.247" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.student.AppTest" time="0.246" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="27"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/test-classes:/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/classes:/Users/fatmtbntmhmd/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/fatmtbntmhmd/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/fatmtbntmhmd/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/fatmtbntmhmd/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.0/log4j-slf4j2-impl-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:"/>
+    <property name="java.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/test-classes:/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/classes:/Users/fatmtbntmhmd/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/fatmtbntmhmd/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/fatmtbntmhmd/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/fatmtbntmhmd/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.0/log4j-slf4j2-impl-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:"/>
     <property name="java.vm.vendor" value="Homebrew"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
@@ -12,10 +12,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SA"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/27/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire/surefirebooter-20261013123441367_3.jar /Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire 2026-10-13T12-34-41_315-jvmRun1 surefire-20261013123441367_1tmp surefire_0-20261013123441367_2tmp"/>
+    <property name="sun.java.command" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire/surefirebooter-20261014095954050_3.jar /Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire 2026-10-14T09-59-54_000-jvmRun1 surefire-20261014095954050_1tmp surefire_0-20261014095954050_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/test-classes:/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/classes:/Users/fatmtbntmhmd/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/fatmtbntmhmd/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/fatmtbntmhmd/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/fatmtbntmhmd/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.0/log4j-slf4j2-impl-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/test-classes:/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/classes:/Users/fatmtbntmhmd/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/fatmtbntmhmd/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/fatmtbntmhmd/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/fatmtbntmhmd/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.0/log4j-slf4j2-impl-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/Users/fatmtbntmhmd/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/fatmtbntmhmd"/>
     <property name="user.language" value="en"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire/surefirebooter-20261013123441367_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/surefire/surefirebooter-20261014095954050_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="27"/>
@@ -59,8 +59,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="71.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.student.AppTest" time="0.231">
-    <system-out><![CDATA[12:34:41.806 [main] ERROR com.student.Calculator - Division by zero: a=10, b=0
+  <testcase name="shouldAnswerWithTrue" classname="com.student.AppTest" time="0.226">
+    <system-out><![CDATA[09:59:54.468 [main] ERROR com.student.Calculator - Division by zero: a=10, b=0
 ]]></system-out>
     <system-err><![CDATA[[Fatal Error] log4j2.xml:20:17: Content is not allowed in trailing section.
 ERROR StatusLogger Error parsing /Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/calculator-app/target/classes/log4j2.xml
@@ -88,20 +88,23 @@ ERROR StatusLogger Error parsing /Users/fatmtbntmhmd/Desktop/SE4111/Lap3_mvn/cal
 	at com.student.AppTest.shouldAnswerWithTrue(AppTest.java:16)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:583)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
 	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
-	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
-	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
 	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:316)
 	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:240)
 	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:214)

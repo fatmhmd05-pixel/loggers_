@@ -14,6 +14,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         Calculator c = new Calculator();
-        c.divide(10, 2);
+        c.divide(10, 0);
     }
 }
